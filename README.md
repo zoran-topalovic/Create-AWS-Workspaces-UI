@@ -7,14 +7,11 @@ It provides an interactive macOS-native interface using AppleScript dialogs to s
 
 **Features**
 
-Region Selection: Choose from supported AWS regions.
-
-Bundle Selection: Select a WorkSpaces bundle from a predefined list per region.
-
-User Input: Enter multiple usernames in a single line (comma-separated).
-Encryption: Enables encryption for root and user volumes using a predefined encryption key.
-
-Automated WorkSpaces Creation: Uses AWS CLI to create WorkSpaces based on the user input.
+- Region Selection: Choose from supported AWS regions.
+- Bundle Selection: Select a WorkSpaces bundle from a predefined list per region.
+- User Input: Enter multiple usernames in a single line (comma-separated).
+- Encryption: Enables encryption for root and user volumes using a predefined encryption key.
+- Automated WorkSpaces Creation: Uses AWS CLI to create WorkSpaces based on the user input.
 
 **Requirements**
 
